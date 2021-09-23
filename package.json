@@ -1,7 +1,7 @@
 {
   "name": "adoc-aware-link-check",
   "version": "2.0.0",
-  "description": "Test the links in your asciidoc files.",
+  "description": "Test the links in your Asciidoc files.",
   "main": "index.js",
   "scripts": {
     "test": "tape test/**/*.test.js",
